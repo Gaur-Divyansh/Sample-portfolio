@@ -81,6 +81,10 @@
     font-size: 30px;
     font-weight: 600;
   }
+
+  #icons a{
+    display: inline-block;
+  }
   #icons i {
     background-color: black;
     color: white;
